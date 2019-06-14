@@ -1,0 +1,6 @@
+flask
+numpy
+pandas
+nltk
+scikit-learn
+rake_nltk
